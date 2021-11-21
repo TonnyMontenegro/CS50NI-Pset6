@@ -1,4 +1,4 @@
-# Project 0 CS50Ni Web Programming with Python and JavaScript
+# Pset 6 CS50Xni
 
 1.  Implementa <a href="#Sentimental" class="btn btn-sm btn-default">Sentimental</a>
 2.  Implementa cualquiera de estos dos:
