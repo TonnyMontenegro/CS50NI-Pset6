@@ -1,4 +1,4 @@
-# Pset 6 CS50Xni
+# CS50Xni Pset 6: Déjà vu
 
 1.  Implementa <a href="#Sentimental" class="btn btn-sm btn-default">Sentimental</a>
 2.  Implementa cualquiera de estos dos:
